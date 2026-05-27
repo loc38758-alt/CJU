@@ -1,0 +1,6 @@
+{
+  "name": "청주대학교 입학 및 정보 포털",
+  "description": "청주대학교의 공식 대학 소개 및 입학 안내 포털 애플리케이션입니다. 각 단과대학 및 학과 안내, 학사 일정, 입학 상담 신청, 그리고 AI 스마트 입학 도우미 서비스를 제공합니다.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
